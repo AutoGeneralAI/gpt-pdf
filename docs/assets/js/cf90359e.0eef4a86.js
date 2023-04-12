@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1301],{5095:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/gpt-pdf/blog/tags/docusaurus","allTagsPath":"/gpt-pdf/blog/tags","count":4}')}}]);

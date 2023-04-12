@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7319],{7602:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/gpt-pdf/blog/tags/facebook","allTagsPath":"/gpt-pdf/blog/tags","count":1}')}}]);
