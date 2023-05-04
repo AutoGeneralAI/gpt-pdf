@@ -1,8 +1,8 @@
 # gpt-pdf
 
-gpt-pdf.ipynb 是 在 google colab 运行的代码
+[gpt-pdf.ipynb](./gpt-pdf.ipynb) 是 在 google colab 运行的代码
 
-main.py 是可以独立运行的普通python代码。
+[main.py](./main.py) 是可以独立运行的普通python代码。
 
 > 两者都实现一样的功能：翻译pdf文档。两者相互独立，可以任选一个参考体验，或者都参考和体验。
 
